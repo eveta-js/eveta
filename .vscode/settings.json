@@ -1,0 +1,11 @@
+{
+  // Editor
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "editor.trimAutoWhitespace": false,
+  // Deno
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true
+}

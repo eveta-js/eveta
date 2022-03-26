@@ -1,0 +1,15 @@
+*
+!/.vscode/
+!/.vscode/settings.json
+!/.gitignore
+!/deps/
+!/deps/*.ts
+!/tests/
+!/tests/**/*.ts
+!/Event.ts
+!/EventTarget.ts
+!/EventWaiter.ts
+!/GlobalEventWaiter.ts
+!/mod.ts
+!/ReadonlyDate.ts
+!/types.ts
